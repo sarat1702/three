@@ -1,0 +1,88 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierArchitecture.ui", "ThreeTierArchitecture.ui\ThreeTierArchitecture.ui.csproj", "{78746944-5BF0-4439-ADA7-DF0F27D01548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierArchitecture.DataLayer", "ThreeTierArchitecture.DataLayer\ThreeTierArchitecture.DataLayer.csproj", "{678EE1AC-C6CB-4835-8986-D36C2BB9941A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierArchitecture.BusinessLayer", "ThreeTierArchitecture.BusinessLayer\ThreeTierArchitecture.BusinessLayer.csproj", "{8D65075E-3AF9-470E-95EA-7893C8E15CC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreeTierArchitecture.DomainLayer", "ThreeTierArchitecture.DomainLayer\ThreeTierArchitecture.DomainLayer.csproj", "{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Debug|x64.ActiveCfg = Debug|x64
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Debug|x64.Build.0 = Debug|x64
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Debug|x86.ActiveCfg = Debug|x86
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Debug|x86.Build.0 = Debug|x86
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Release|x64.ActiveCfg = Release|x64
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Release|x64.Build.0 = Release|x64
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Release|x86.ActiveCfg = Release|x86
+		{78746944-5BF0-4439-ADA7-DF0F27D01548}.Release|x86.Build.0 = Release|x86
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Debug|x64.ActiveCfg = Debug|x64
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Debug|x64.Build.0 = Debug|x64
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Debug|x86.ActiveCfg = Debug|x86
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Debug|x86.Build.0 = Debug|x86
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Release|x64.ActiveCfg = Release|x64
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Release|x64.Build.0 = Release|x64
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Release|x86.ActiveCfg = Release|x86
+		{2EA0C37C-3235-4F2E-B7E9-739C9D94AEC5}.Release|x86.Build.0 = Release|x86
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Debug|x64.ActiveCfg = Debug|x64
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Debug|x64.Build.0 = Debug|x64
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Debug|x86.ActiveCfg = Debug|x86
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Debug|x86.Build.0 = Debug|x86
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Release|x64.ActiveCfg = Release|x64
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Release|x64.Build.0 = Release|x64
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Release|x86.ActiveCfg = Release|x86
+		{678EE1AC-C6CB-4835-8986-D36C2BB9941A}.Release|x86.Build.0 = Release|x86
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Debug|x64.ActiveCfg = Debug|x64
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Debug|x64.Build.0 = Debug|x64
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Debug|x86.ActiveCfg = Debug|x86
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Debug|x86.Build.0 = Debug|x86
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Release|x64.ActiveCfg = Release|x64
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Release|x64.Build.0 = Release|x64
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Release|x86.ActiveCfg = Release|x86
+		{8D65075E-3AF9-470E-95EA-7893C8E15CC2}.Release|x86.Build.0 = Release|x86
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Debug|x64.ActiveCfg = Debug|x64
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Debug|x64.Build.0 = Debug|x64
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Debug|x86.ActiveCfg = Debug|x86
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Debug|x86.Build.0 = Debug|x86
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Release|x64.ActiveCfg = Release|x64
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Release|x64.Build.0 = Release|x64
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Release|x86.ActiveCfg = Release|x86
+		{317222FE-8DB1-49BB-8EEE-F2BA1E3EDC8B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

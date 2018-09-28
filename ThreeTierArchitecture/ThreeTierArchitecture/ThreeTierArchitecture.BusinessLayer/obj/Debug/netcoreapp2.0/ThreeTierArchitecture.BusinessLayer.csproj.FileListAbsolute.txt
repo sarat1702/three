@@ -1,0 +1,12 @@
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.BusinessLayer.deps.json
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.BusinessLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.BusinessLayer.pdb
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.DomainLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.pdb
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.DomainLayer.pdb
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.BusinessLayer.csproj.CoreCompileInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.BusinessLayer.AssemblyInfoInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.BusinessLayer.AssemblyInfo.cs
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.BusinessLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.BusinessLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.BusinessLayer.pdb

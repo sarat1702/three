@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ThreeTierArchitecture.DataLayer\ThreeTierArchitecture.DataLayer.csproj" />
+    <ProjectReference Include="..\ThreeTierArchitecture.DomainLayer\ThreeTierArchitecture.DomainLayer.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

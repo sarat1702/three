@@ -1,0 +1,10 @@
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.csproj.CoreCompileInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.AssemblyInfoInputs.cache
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.AssemblyInfo.cs
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.deps.json
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.pdb
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.DomainLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\bin\Debug\netcoreapp2.0\ThreeTierArchitecture.DomainLayer.pdb
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.dll
+c:\Users\Sarat.chaganti\Desktop\New folder (2)\ThreeTierArchitecture\ThreeTierArchitecture\ThreeTierArchitecture.DataLayer\obj\Debug\netcoreapp2.0\ThreeTierArchitecture.DataLayer.pdb
